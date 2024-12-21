@@ -126,7 +126,7 @@ include 'koneksi.php';
                 </div>
 
                 <div class="materi-smallvid" id=imbuhan>
-                    <h1>Imbuhan</h1>
+                    <h1>Imbuhan Awalan (Prefiks)</h1>
                     <div class="vid-container">
                         <video controls loop muted>
                             <source src="assets/vid/Imbuhan/Imbuhan -an.mp4" type="video/mp4">
@@ -152,6 +152,7 @@ include 'koneksi.php';
                             <source src="assets/vid/Imbuhan/Imbuhan -nya.mp4" type="video/mp4">
                             <source src="assets/vid/Imbuhan/Imbuhan -nya.webm" type="video/webm">
                         </video>
+                        <h1>Imbuhan Akiran (Sufiks)</h1>
                         <video controls loop muted>
                             <source src="assets/vid/Imbuhan/Imbuhan Ber-.mp4" type="video/mp4">
                             <source src="assets/vid/Imbuhan/Imbuhan Ber-.webm" type="video/webm">
