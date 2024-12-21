@@ -133,14 +133,6 @@ include 'koneksi.php';
                             <source src="assets/vid/Imbuhan/Imbuhan -an.webm" type="video/webm">
                         </video>
                         <video controls loop muted>
-                            <source src="assets/vid/Imbuhan/Imbuhan Ber-.mp4" type="video/mp4">
-                            <source src="assets/vid/Imbuhan/Imbuhan Ber-.webm" type="video/webm">
-                        </video>
-                        <video controls loop muted>
-                            <source src="assets/vid/Imbuhan/Imbuhan Di-.mp4" type="video/mp4">
-                            <source src="assets/vid/Imbuhan/Imbuhan Di-.webm" type="video/webm">
-                        </video>
-                        <video controls loop muted>
                             <source src="assets/vid/Imbuhan/Imbuhan -i.mp4" type="video/mp4">
                             <source src="assets/vid/Imbuhan/Imbuhan -i.webm" type="video/webm">
                         </video>
@@ -157,13 +149,21 @@ include 'koneksi.php';
                             <source src="assets/vid/Imbuhan/Imbuhan -lah.webm" type="video/webm">
                         </video>
                         <video controls loop muted>
-                            <source src="assets/vid/Imbuhan/Imbuhan Me-.mp4" type="video/mp4">
-                            <source src="assets/vid/Imbuhan/Imbuhan Me-.webm" type="video/webm">
-                        </video>
-                        <video controls loop muted>
                             <source src="assets/vid/Imbuhan/Imbuhan -nya.mp4" type="video/mp4">
                             <source src="assets/vid/Imbuhan/Imbuhan -nya.webm" type="video/webm">
                         </video>
+                        <video controls loop muted>
+                            <source src="assets/vid/Imbuhan/Imbuhan Ber-.mp4" type="video/mp4">
+                            <source src="assets/vid/Imbuhan/Imbuhan Ber-.webm" type="video/webm">
+                        </video>
+                        <video controls loop muted>
+                            <source src="assets/vid/Imbuhan/Imbuhan Di-.mp4" type="video/mp4">
+                            <source src="assets/vid/Imbuhan/Imbuhan Di-.webm" type="video/webm">
+                        </video>
+                        <video controls loop muted>
+                            <source src="assets/vid/Imbuhan/Imbuhan Me-.mp4" type="video/mp4">
+                            <source src="assets/vid/Imbuhan/Imbuhan Me-.webm" type="video/webm">
+                        </video>                        
                         <video controls loop muted>
                             <source src="assets/vid/Imbuhan/Imbuhan Pe-.mp4" type="video/mp4">
                             <source src="assets/vid/Imbuhan/Imbuhan Pe-.webm" type="video/webm">
