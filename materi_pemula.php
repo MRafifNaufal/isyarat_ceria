@@ -156,7 +156,7 @@ include 'koneksi.php';
                     </div>
                 </div>
 
-                <div class="materi-smallvid" id=imbuhan>
+                <div class="materi-smallvid" id=imbuhanpref>
                     <h1>Imbuhan Awalan (Prefiks)</h1>
                     <div class="vid-container">
                         <iframe src="https://www.youtube.com/embed/y_m_VQqbstQ?modestbranding=1&controls=0&mute=1" title="Imbuhan -an" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -174,7 +174,7 @@ include 'koneksi.php';
                         </video>                        
                     </div>
                 </div>
-                <div class="materi-smallvid">
+                <div class="materi-smallvid" id=imbuhansuf>
                     <h1>Imbuhan Akiran (Sufiks)</h1>
                     <div class="vid-container">
                         <iframe width="1280" height="720" src="https://www.youtube.com/embed/PGC1m4jpMB0?modestbranding=1&controls=0&mute=1" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

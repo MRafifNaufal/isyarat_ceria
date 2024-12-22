@@ -23,7 +23,8 @@ include 'koneksi.php';
                     <a href="./materi_pemula.php#kat-sifat">Kata sifat</a>
                     <a href="./materi_pemula.php#kat-sifat">Kata benda</a>
                     <a href="./materi_pemula.php#kat-hubung">Kata hubung</a>
-                    <a href="./materi_pemula.php#imbuhan">Imbuhan</a>
+                    <a href="./materi_pemula.php#imbuhanpref">Imbuhan Awal</a>
+                    <a href="./materi_pemula.php#imbuhansuf">Imbuhan Akhir</a>
                 </div>
                 <div class="materi-footer">
                     <h2>Materi Lanjutan</h2>
