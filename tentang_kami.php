@@ -17,7 +17,7 @@ include 'koneksi.php';
                     <h1>Tim Kami</h1>
                     <div class="tim-container">
                         <div class="tim-detail">
-                            <img class="tim-img" src="./assets/img/Tim/ferocious-tiger-head-studio (1).jpg">
+                            <img class="tim-img" src="./assets/img/Tim/Kucing.jpg">
                             <h4>Haidar Zharif Nasution</h4>
                             <p>Project Leader</p>
                         </div>
@@ -27,17 +27,17 @@ include 'koneksi.php';
                             <p>UI-UX Design & Back End Developer</p>
                         </div>
                         <div class="tim-detail">
-                            <img class="tim-img" src="./assets/img/Tim/ferocious-tiger-head-studio (1).jpg">
+                            <img class="tim-img" src="./assets/img/Tim/poggers.jpg">
                             <h4>Muhammad Naufal AlHafizh</h4>
                             <p>Front End Developer</p>
                         </div>
                         <div class="tim-detail">
-                            <img class="tim-img" src="./assets/img/Tim/ferocious-tiger-head-studio (1).jpg">
+                            <img class="tim-img" src="./assets/img/Tim/chicken vectors.jpeg">
                             <h4>Muhammad Arif Putra</br>Ramadhan</h4>
                             <p>Content Maker</p>
                         </div>
                         <div class="tim-detail">
-                            <img class="tim-img" src="./assets/img/Tim/ferocious-tiger-head-studio (1).jpg">
+                            <img class="tim-img" src="./assets/img/Tim/cute-deer-with-antlers-illustration-standing-cute-deer-cartoon-style-drawing-vector.jpg">
                             <h4>Filemon Kadarmanto</h4>
                             <p>Graphic Designer</p>
                         </div>
