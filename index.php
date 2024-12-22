@@ -31,7 +31,7 @@ include 'koneksi.php';
                     <li class="materi-preview">
                         <h3>Materi Lanjutan</h3>
                         <p>Pembelajaran struktur  kata sapaan dan kalimat sederhana dalam bahasa isyarat untuk membangun percakapan sederhana.</p>
-                        <a href="./materi_lanjutan.php"><button class="materi-btn" type="button">Pelajari Selengkapnya!</button></a>
+                        <a><button class="materi-btn" type="button">Coming Soon!</button></a>
                     </li>
                 </ul>
 

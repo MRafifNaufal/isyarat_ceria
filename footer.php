@@ -28,12 +28,8 @@ include 'koneksi.php';
                 </div>
                 <div class="materi-footer">
                     <h2>Materi Lanjutan</h2>
-                    <a href="./materi_lanjutan.php#imbuhandasar">Memasukkan Imbuhan ke Kalimat Dasar</a>
-                    <a href="./materi_lanjutan.php#kal-tunggal">Kalimat Tunggal</a>
-                    <a href="./materi_lanjutan.php#kal-majemuk">Kalimat Majemuk </a>
-                    <a href="./materi_lanjutan.php#kal-deklaratif">Kalimat Deklaratif (Pernyataan)</a>
-                    <a href="./materi_lanjutan.php#kal-tanya">Kalimat Tanya (Kalimat Interogatif)</a>
-                    <a href="./materi_lanjutan.php#kal-seruan">Kalimat Seruan</a>                    
+                    <a>Coming Soon</a>
+                                       
                 </div>
                 <div class="materi-footer">
                     <h2>Tentang Kami</h2>

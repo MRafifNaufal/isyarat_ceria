@@ -24,7 +24,7 @@ include 'koneksi.php';
                         <ul class="subnav">
                             <li><a href="./materi_dasar.php">Materi Dasar</a></li>
                             <li><a href="./materi_pemula.php">Materi Pemula</a></li>
-                            <li><a href="./materi_lanjutan.php">Materi Lanjutan</a></li>
+                            <li><a>Coming Soon</a></li>
                         </ul>
                     </li>
                     <li><a href="./tentang_kami.php">Tentang Kami</a></li>
