@@ -31,11 +31,11 @@ include 'koneksi.php';
                 </div>
                 <div class="materi-bigvid" id="alfabet">
                     <h1>Alfabet Isyarat</h1>
-                    <iframe src="https://www.youtube.com/embed/QUWGn_y4njs?modestbranding=1&controls=0&mute=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/QUWGn_y4njs?modestbranding=1&controls=0&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
                 <div class="materi-bigvid" id="angkadasar">
                     <h1>Angka Dasar</h1>
-                    <iframe src="https://www.youtube.com/embed/jDCxMVz6Nac?modestbranding=1&controls=0&mute=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/jDCxMVz6Nac?modestbranding=1&controls=0&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </div>
         </section>
