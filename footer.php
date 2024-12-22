@@ -6,7 +6,7 @@ include 'koneksi.php';
     <body>
         <footer>
             <div class="logo-footer">
-                <a href="./index.php"><img src="./assets/img/Logo/white.png">Isyarat</br>Ceria</a>
+                <a href="./index.php"><img src="./assets/img/white.png">Isyarat</br>Ceria</a>
             </div>
             <div class="info-footer">
                 <div class="materi-footer">

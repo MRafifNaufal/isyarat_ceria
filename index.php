@@ -14,7 +14,7 @@ include 'koneksi.php';
                         <h1>ISYARAT CERIA</h1>
                         <p>Website untuk membantu meningkatkan efisiensi dalam pembelajaran bahasa isyarat dengan menerapkan Kamus Visual dan Permainan Kuis.</p>
                     </div>
-                    <img class="post-img" src="./assets/img/Vector/post_img_handGesture.png">
+                    <img class="post-img" src="./assets/img/post_img_handGesture.png">
                 </div>
 
                 <ul class="materi-container">
@@ -36,7 +36,7 @@ include 'koneksi.php';
                 </ul>
 
                 <div class="benefit">
-                    <img src="./assets/img/Vector/rb_2148354023 1.png">
+                    <img src="./assets/img/rb_2148354023 1.png">
                     <div class="benefit-txt">
                         <h2>Benefit pada pembelajaran bahasa isyarat</h2>
                         <ul>
@@ -57,7 +57,7 @@ include 'koneksi.php';
                             Isi kuisioner ini dan bantu kami menciptakan website pembelajaran bahasa isyarat yang lebih menarik dan bermanfaat untuk semua!</p>
                             <a href="kuis.php"><button class="prequiz-btn" type="button">Ikuti Kuesioner Kami</button></a>
                         </div>
-                        <img class="prequiz-img" src="./assets/img/Vector/rb_29429 1.png">
+                        <img class="prequiz-img" src="./assets/img/rb_29429 1.png">
                     </div>
                 </div>
             </div>

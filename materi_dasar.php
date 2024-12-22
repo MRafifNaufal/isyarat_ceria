@@ -13,7 +13,7 @@ include 'koneksi.php';
                     <div class="tm-text">
                         <h1>Materi Dasar</h1>                        
                     </div> 
-                    <img class="materi-banner" src="./assets/img//Lainnya/banner.png" alt="banner">
+                    <img class="materi-banner" src="./assets/img/banner.png" alt="banner">
                 </div>
                 <div class="materi-txt" id="pengenalan">
                     <h1>Pengenalan Bahasa Isyarat</h1>

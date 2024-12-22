@@ -7,7 +7,7 @@ include 'koneksi.php';
             <nav>                
             <!-- Logo -->
             <div class="logo-navbar">
-                <a class="logo" href="./index.php"><img src="./assets/img/Logo/white.png">
+                <a class="logo" href="./index.php"><img src="./assets/img/white.png">
                     <p>Isyarat</br>Ceria</p>
                 </a>
 
