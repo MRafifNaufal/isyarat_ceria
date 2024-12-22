@@ -31,12 +31,7 @@ include 'koneksi.php';
                     <h2>Materi Lanjutan</h2>
                     <a>Coming Soon</a>
                                        
-                </div>
-                <div class="materi-footer">
-                    <h2>Tentang Kami</h2>
-                    <a href="./tentang_kami.php#latarblkng">Latar belakang</a>
-                    <a href="./tentang_kami.php#tim">Tim kami</a>
-                </div>                
+                </div>                             
             </div>
             
             
