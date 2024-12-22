@@ -856,8 +856,9 @@ footer{
         h1{
             font-size: 1.2em;
         }
-        video{
-            width: 100%;
+        iframe{
+            width: 90%;
+            height: 30vh;
         }
     }
 
@@ -881,6 +882,12 @@ footer{
                 padding: 1vh 0;
                 width: 100%;
             }
+            iframe{
+                padding: 1vh;
+                width: 90%;
+                height: 30vh;
+            }
+            
         }
     }
     /* Mobile Materi End Section */
