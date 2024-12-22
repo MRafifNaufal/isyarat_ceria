@@ -22,7 +22,7 @@ include 'koneksi.php';
                             <p>Project Leader</p>
                         </div>
                         <div class="tim-detail">
-                            <img class="tim-img" src="./assets/img/Tim/ferocious-tiger-head-studio (1).jpg">
+                            <img class="tim-img" src="./assets/img/Tim/astro.jpg">
                             <h4>Muhammad Rafif Naufal</h4>
                             <p>UI-UX Design & Back End Developer</p>
                         </div>
