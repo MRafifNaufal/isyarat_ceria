@@ -21,7 +21,8 @@ include 'koneksi.php';
                     <h2>Materi Pemula</h2>
                     <a href="./materi_pemula.php#kat-ganti">Kata ganti</a>
                     <a href="./materi_pemula.php#kat-sifat">Kata sifat</a>
-                    <a href="./materi_pemula.php#kat-sifat">Kata benda</a>
+                    <a href="./materi_pemula.php#kat-benda">Kata benda</a>
+                    <a href="./materi_pemula.php#kat-tanya">Kata tanya</a>
                     <a href="./materi_pemula.php#kat-hubung">Kata hubung</a>
                     <a href="./materi_pemula.php#imbuhanpref">Imbuhan Awal</a>
                     <a href="./materi_pemula.php#imbuhansuf">Imbuhan Akhir</a>

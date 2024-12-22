@@ -90,8 +90,8 @@ include 'koneksi.php';
                     </div>
                 </div>
 
-                <div class="materi-smallvid" id="kat-keterangan">
-                    <h1>Kata Keterangan</h1>
+                <div class="materi-smallvid" id="kat-tanya">
+                    <h1>Kata Tanya</h1>
                     <div class="vid-container">
                         <video controls loop muted>
                             <source src="assets/vid/Place Holder Vid.mp4" type="video/mp4">
